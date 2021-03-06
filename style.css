@@ -1,0 +1,56 @@
+body {background-color: pink}
+.menu {width: 40%}
+.menu ul li a {font-size:  18px; font-weight: 600;}
+.menu ul li a {}
+.banner-area {padding: 80px 0px;}
+
+.card img {width: 20%; align-self: center;}
+.card h5 {padding: 15px 0px;}
+.card {padding: 35px 0px;}
+.services-area {margin: 80px 0px;}
+
+.b1 {
+	height: 350px; 
+	background-color: red;
+
+}
+.b2 {
+	height: 350px; 
+	background-color: orange;
+	
+}
+.b3{
+	height: 350px; 
+	background-color: green;
+	
+}
+.b4 {
+	height: 350px; 
+	background-color: blue;
+	
+}
+.b5{
+	height: 350px; 
+	background-color: purple;
+	
+}
+
+.first{ 
+	border: solid 2px black 
+	padding: 50px; }
+
+.ccarousel-inner {border: solid 2px black 
+	padding: 50px;}
+.submit {padding-top: 50px; }
+.testimonial{
+	margin: 60px 0px;
+}
+.testimonial{
+	padding: 30px 0px;
+}
+
+.testimonial .t-h,.t-p{
+	padding: 20px 0px;
+}
+.post-cards {border: solid 2px black;}
+.formm {background-image: blue;}
